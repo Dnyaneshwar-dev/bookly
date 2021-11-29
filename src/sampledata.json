@@ -1,0 +1,44 @@
+[
+    {
+        "name":"Drafter",
+        "imageurl":"https://m.media-amazon.com/images/I/51z9Z+70JSL._SL1080_.jpg",
+        "price":"120",
+        "owner":"Dnyaneshwar",
+        "contact":"abc@gmail.com",
+        "description":"Precise measurement and scale is vital in preparing technical drawings and plans. Use this drafter from Omega and ensure that your drawings detailing architectural plans meet the specifications and dimensions"
+    },
+    {
+        "name":"Roller",
+        "imageurl":"https://rukminim1.flixcart.com/image/416/416/k5r2mq80/ruler/e/t/f/plastic-multi-use-roll-and-draw-ruler-scale-30cm-vardhman-original-imafzchyb3w68ku6.jpeg?q=70",
+        "price":"70",
+        "owner":"Ankur",
+        "contact":"abc@gmail.com",
+        "description":"Multi-use tool for drawing vertical lines, horizontal lines, parallel lines, angles and circle"
+    },
+    {
+        "name":"FY Mechanics Book",
+        "imageurl":"https://easyengineering.net/wp-content/uploads/2019/01/812tukAEy4L.jpg",
+        "price":"100",
+        "owner":"Vijaya",
+        "contact":"abc@gmail.com",
+        "description":"FY engineering book for mechanics"
+    },
+    {
+        "name":"Calci",
+        "imageurl":"https://images-eu.ssl-images-amazon.com/images/I/513aaEWkoML._AC_UL600_SR600,600_.jpg",
+        "price":"300",
+        "owner":"Dhanashri",
+        "contact":"abc@gmail.com",
+        "description":" An engineering calculator can do exponents, logarithms, and a variety of other trigonometry functions"
+    },
+    {
+        "name":"Drawing Board",
+        "imageurl":"https://5.imimg.com/data5/ZJ/CT/UH/SELLER-6740269/drawing-board-500x500.jpg",
+        "price":"150",
+        "owner":"Vijaya",
+        "contact":"abc@gmail.com",
+        "description":"NATURAL SEASONED PINEWOOD: Made from finest quality natural seasoned pinewood, making it the best drawing surface to own!"
+    }
+
+
+]
